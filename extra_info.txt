@@ -1,0 +1,7 @@
+--------------------------------------------------------------------------------------
+CLASS: UserInputValidator
+--------------------------------------------------------------------------------------
+
+The UserInputValidator class is designed to validate if a value is a positive integer.
+
+1. Has a method validate_positive_integers to check if inputs are positive integers.
